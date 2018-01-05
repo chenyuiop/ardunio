@@ -14,8 +14,8 @@
           "architecture": "MVSilicon",
           "version": "1.0.1",
           "category": "Andino11",
-          "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino_1.0.1.zip",
-          "archiveFileName": "Andino_1.0.1.zip",
+          "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino-1.0.1.zip",
+          "archiveFileName": "Andino-1.0.1.zip",
           "checksum": "SHA-256:88273FE1E9A7861F9F2201948230AB505E207678EE5AE702769C837E848247B1",
           "size": "3320616",
           "boards": [
