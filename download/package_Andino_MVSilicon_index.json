@@ -3,10 +3,10 @@
     {
       "name": "Andino",
       "maintainer": "MVSilicon",
-      "websiteURL": "http://www.andestech.com.tw/",
+      "websiteURL": "http://www.mvsilicon.com/",
       "email": "grayson@mvsilicon.com",
       "help": {
-        "online": "http://www.andestech.com.tw/"
+        "online": "http://www.mvsilicon.com/"
       },
       "platforms": [
         {
@@ -44,8 +44,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/chenyuiop/ardunio/raw/master/download/nds32le-elf-mculib-v3m.zip",
               "archiveFileName": "nds32le-elf-mculib-v3m.zip",
-              "checksum": "SHA-256:0D350A97D889D0F58648AE6D8109AF9B292C2060288A643A75AC22A9B06A1C9A",
-              "size": "101060778"
+              "checksum": "SHA-256:FC7071922B4B3FA3447240766A44D6DCE6E63DD0AFBFC7ADCF3DB54089C9F5EC",
+              "size": "100985932 "
             }
           ]
         },
@@ -57,8 +57,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/chenyuiop/ardunio/raw/master/download/P20_burner.zip",
               "archiveFileName": "P20_burner.zip",
-              "checksum": "SHA-256:9D180E4494FABE7C2BA670FC4F4BDF93D402E934B3D0232BBE9530E9DE77AD92",
-              "size": "7457949 "
+              "checksum": "SHA-256:43DFA55D185E2FEECB263F2DA0214CF2974703C1A66F92DAE4E01BE7064A11A9",
+              "size": "7457167  "
             }
           ]
         }
