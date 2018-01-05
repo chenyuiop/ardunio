@@ -1,34 +1,34 @@
 {
   "packages": [
     {
-      "name": "Andino11",
-      "maintainer": "Andestech",
+      "name": "Andino",
+      "maintainer": "MVSilicon",
       "websiteURL": "http://www.andestech.com.tw/",
-      "email": "support@andestech.com",
+      "email": "grayson@mvsilicon.com",
       "help": {
         "online": "http://www.andestech.com.tw/"
       },
       "platforms": [
         {
-          "name": "Andino11 P20 Boards",
+          "name": "Andino P20 Boards",
           "architecture": "MVSilicon",
           "version": "1.0.1",
-          "category": "Andino11",
+          "category": "Andino",
           "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino-1.0.1.zip",
           "archiveFileName": "Andino-1.0.1.zip",
           "checksum": "SHA-256:88273FE1E9A7861F9F2201948230AB505E207678EE5AE702769C837E848247B1",
           "size": "3320616",
           "boards": [
-            {"name": "Andino11 P20"}
+            {"name": "Andino P20"}
           ],
           "toolsDependencies": [
             {
-              "packager": "Andino11",
+              "packager": "Andino",
               "name": "nds32le-elf-mculib-v3m",
               "version": "3.4.0"
             },
             {
-              "packager": "Andino11",
+              "packager": "Andino",
               "name": "P20_burner",
               "version": "0.0.1"
             }
