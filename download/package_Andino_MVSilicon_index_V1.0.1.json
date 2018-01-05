@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Andino",
-      "maintainer": "Andestech MVSilicon",
+      "maintainer": "Andestech",
       "websiteURL": "http://www.andestech.com.tw/",
       "email": "support@andestech.com",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Andino MVSilicon Boards",
+          "name": "Andino Boards",
           "architecture": "MVSilicon",
           "version": "1.0.1",
           "category": "Andino",
