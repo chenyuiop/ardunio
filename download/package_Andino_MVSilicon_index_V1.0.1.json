@@ -1,0 +1,69 @@
+{
+  "packages": [
+    {
+      "name": "Andino",
+      "maintainer": "Andestech",
+      "websiteURL": "http://www.andestech.com.tw/",
+      "email": "support@andestech.com",
+      "help": {
+        "online": "http://www.andestech.com.tw/"
+      },
+      "platforms": [
+        {
+          "name": "Andino MVSilicon Boards",
+          "architecture": "MVSilicon",
+          "version": "1.0.1",
+          "category": "Andino",
+          "url": "https://github.com/chenyuiop/ardunio.git/download/Andino_1.0.1.zip",
+          "archiveFileName": "Andino_1.0.1.zip",
+          "checksum": "SHA-256:88273FE1E9A7861F9F2201948230AB505E207678EE5AE702769C837E848247B1",
+          "size": "3320616",
+          "boards": [
+            {"name": "Andino P20"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Andino",
+              "name": "nds32le-elf-mculib-v3m",
+              "version": "3.4.0"
+            },
+            {
+              "packager": "Andino",
+              "name": "P20_burner",
+              "version": "0.0.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "nds32le-elf-mculib-v3m",
+          "version": "3.4.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/chenyuiop/ardunio.git/download/nds32le-elf-mculib-v3m.zip",
+              "archiveFileName": "nds32le-elf-mculib-v3m.zip",
+              "checksum": "SHA-256:0D350A97D889D0F58648AE6D8109AF9B292C2060288A643A75AC22A9B06A1C9A",
+              "size": "101060778"
+            }
+          ]
+        },
+        {
+          "name": "P20_burner",
+          "version": "0.0.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/chenyuiop/ardunio.git/download/P20_burner.zip",
+              "archiveFileName": "P20_burner.zip",
+              "checksum": "SHA-256:9D180E4494FABE7C2BA670FC4F4BDF93D402E934B3D0232BBE9530E9DE77AD92",
+              "size": "7457949 "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
