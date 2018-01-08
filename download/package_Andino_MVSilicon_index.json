@@ -12,12 +12,12 @@
         {
           "name": "Andino P20 Boards",
           "architecture": "MVSilicon",
-          "version": "1.0.1",
+          "version": "1.6.4",
           "category": "Andino",
-          "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino-1.0.1.zip",
-          "archiveFileName": "Andino-1.0.1.zip",
-          "checksum": "SHA-256:88273FE1E9A7861F9F2201948230AB505E207678EE5AE702769C837E848247B1",
-          "size": "3320616",
+          "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino-P20-1.6.4.zip",
+          "archiveFileName": "Andino-P20-1.6.4.zip",
+          "checksum": "SHA-256:907463533F091558C4285BB9155CFF47AC63BBAA6356ADAEE26237E21B3BCE40",
+          "size": "3319223 ",
           "boards": [
             {"name": "Andino P20"}
           ],
