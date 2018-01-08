@@ -1,0 +1,69 @@
+{
+  "packages": [
+    {
+      "name": "arduino",
+      "maintainer": "MVSilicon",
+      "websiteURL": "http://www.mvsilicon.com/",
+      "email": "grayson@mvsilicon.com",
+      "help": {
+        "online": "http://www.mvsilicon.com/"
+      },
+      "platforms": [
+        {
+          "name": "arduino P20 Boards",
+          "architecture": "MVSilicon",
+          "version": "1.6.4",
+          "category": "arduino",
+          "url": "https://github.com/chenyuiop/ardunio/raw/master/download/Andino-P20-1.8.4.zip",
+          "archiveFileName": "Andino-P20-1.8.4.zip",
+          "checksum": "SHA-256:14CCC90FA99B988AED901102BD25F5C3337C0D5695D39CA4148AF2AB6ACF4E6A",
+          "size": "3321579",
+          "boards": [
+            {"name": "arduino P20"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "nds32le-elf-mculib-v3m",
+              "version": "3.4.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "P20_burner",
+              "version": "0.0.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "nds32le-elf-mculib-v3m",
+          "version": "3.4.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/chenyuiop/ardunio/raw/master/download/nds32le-elf-mculib-v3m.zip",
+              "archiveFileName": "nds32le-elf-mculib-v3m.zip",
+              "checksum": "SHA-256:FC7071922B4B3FA3447240766A44D6DCE6E63DD0AFBFC7ADCF3DB54089C9F5EC",
+              "size": "100985932 "
+            }
+          ]
+        },
+        {
+          "name": "P20_burner",
+          "version": "0.0.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/chenyuiop/ardunio/raw/master/download/P20_burner.zip",
+              "archiveFileName": "P20_burner.zip",
+              "checksum": "SHA-256:43DFA55D185E2FEECB263F2DA0214CF2974703C1A66F92DAE4E01BE7064A11A9",
+              "size": "7457167  "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
